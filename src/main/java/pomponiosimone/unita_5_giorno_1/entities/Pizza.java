@@ -6,7 +6,7 @@ public class Pizza extends Menu {
     }
     @Override
     public String toString() {
-        return "Topping{" +
+        return "Pizza{" +
                 "calories=" + calories +
                 ", name='" + name + '\'' +
                 ", price=" + price +

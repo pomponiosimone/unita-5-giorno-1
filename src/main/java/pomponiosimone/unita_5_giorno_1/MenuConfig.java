@@ -22,7 +22,7 @@ public class MenuConfig {
         new Pizza("Capricciosa", 100, 9)
        );
     }
-    @Bean
+   @Bean
     public List<Drink> Menudrink() {
         return List.of(
                 new Drink("Spritz", 100, 8.5),

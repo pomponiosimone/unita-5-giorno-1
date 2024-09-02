@@ -6,7 +6,7 @@ public class Drink extends Menu{
     }
     @Override
     public String toString() {
-        return "Topping{" +
+        return "Drink{" +
                 "calories=" + calories +
                 ", name='" + name + '\'' +
                 ", price=" + price +
